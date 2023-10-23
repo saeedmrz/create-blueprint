@@ -1,0 +1,44 @@
+{
+  "name": "A PWA boilerplate project.",
+  "short_name": "PWA Boiler",
+  "description": "A PWA boilerplate project description.",
+  "lang": "en",
+  "start_url": "./",
+  "orientation": "any",
+  "theme_color": "#ffc252",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./src/assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./src/assets/img/logo-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "_comment_icons": "Create maskable with maskable.app",
+      "src": "./src/assets/img/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./src/assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./src/assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
