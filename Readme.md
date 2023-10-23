@@ -1,4 +1,4 @@
-# Blueprintify
+# create-blueprint
 
 It is a project starter for creating Frontends and PWAs using: Vite | React | TypeScript | JavaScript | Service Workers | SCSS | PostCSS | ESLint | Prettier | Husky
 
