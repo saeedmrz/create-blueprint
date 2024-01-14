@@ -1,6 +1,6 @@
 {
   "name": "create-blueprint",
-  "version": "1.0.1-rc.3",
+  "version": "1.0.1-rc.4",
   "description": "Frontend project boilerplate - Vite | React | TS | JS | PWA",
   "type": "module",
   "main": "index.js",
