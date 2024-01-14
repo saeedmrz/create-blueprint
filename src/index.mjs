@@ -11,12 +11,17 @@ const templates = [
   {
     value: "react-js",
     title: `${yellow("React-JS")}`,
-    description: "React + JavaScript.",
+    description: "Vite + React + JavaScript.",
   },
   {
     value: "pwa-react-js",
     title: `${magenta("PWA-React-JS")}`,
-    description: "PWA + React + JavaScript.",
+    description: "Vite + PWA + React + JavaScript.",
+  },
+  {
+    value: "pwa-react-ts",
+    title: `${blue("PWA-React-TS")}`,
+    description: "Vite + PWA + React + TypeScript.",
   },
 ];
 
